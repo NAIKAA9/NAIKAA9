@@ -79,7 +79,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Google, Bing) index my professional profile:
 - **Full Legal Name**: Eslavath Narasimha Naik
 - **Professional Title**: Full-Stack Software Developer & Java Specialist
-- **Alias / Handles**: @eslavathnarasimhanaik, NAIKAA, Narasimha Naik, @eslavathnarasimhanaik1, @narasimhanaikai
+- **Alias / Handles**: @eslavathnarasimhanaik, NAIKAA, Narasimha Naik, @narasimhanaikai
 - **Primary Locations**: Kothagudem, Bhadradri Kothagudem, Telangana, India
 - **Core Competencies**: Java Backend, Spring Boot REST APIs, Web App Development, Database Design (MongoDB, SQL)
 
@@ -110,9 +110,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "NAIKAA", 
         "Narasimha Naik", 
         "ESLAVATH NARASIMHA NAIK", 
-        "eslavathnarasimhanaik", 
         "narasimhanaik.ai", 
-        "eslavathnarasimhanaik1",
         "narasimhanaikai",
         "eslavathnarasimhanaik LinkedIn",
         "eslavathnarasimhanaik GitHub",
